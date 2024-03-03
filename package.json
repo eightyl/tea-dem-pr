@@ -1,0 +1,23 @@
+{
+  "name": "tea-dem-pr",
+  "version": "1.0.0",
+  "description": "Demo project for Tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eightyl/tea-dem-pr.git"
+  },
+  "dependencies": {
+    "tea-serg": "1.0.0",
+    "tea-serv": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eightyl/tea-dem-pr/issues"
+  },
+  "homepage": "https://github.com/eightyl/tea-dem-pr#readme"
+}
